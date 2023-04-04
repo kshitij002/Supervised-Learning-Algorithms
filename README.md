@@ -15,3 +15,19 @@ Regression is used to understand the relationship between dependent and independ
 Following image will help us understand the process of Supervised Learning better:
 
 ![SL](https://user-images.githubusercontent.com/55188228/229662125-3787a857-63ad-4d5a-8d14-204d18fcfc6d.png)
+
+## Challenges of supervised learning
+Although supervised learning can offer businesses advantages, such as deep data insights and improved automation, there are some challenges when building sustainable supervised learning models. The following are some of these challenges:
+
+  -Supervised learning models can require certain levels of expertise to structure accurately.  
+  -Training supervised learning models can be very time intensive.  
+  -Datasets can have a higher likelihood of human error, resulting in algorithms learning incorrectly.  
+  -Unlike unsupervised learning models, supervised learning cannot cluster or classify data on its own.  
+
+## Supervised Learning with the help of Sci-kit learn library
+
+Scikit-learn (formerly scikits.learn and also known as sklearn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+
+![image](https://user-images.githubusercontent.com/55188228/229664703-0e3190ab-f139-4fcc-81e2-6a344de396f3.png)
+
+The Goal of this repositry is to apply famous machine learning algorithms on the IRIS dataset with the help of scikit learn and compare there performances.
