@@ -13,4 +13,5 @@ Classification uses an algorithm to accurately assign test data into specific ca
 Regression is used to understand the relationship between dependent and independent variables. It is commonly used to make projections, such as for sales revenue for a given business. Linear regression, logistical regression, and polynomial regression are popular regression algorithms.
 
 Following image will help us understand the process of Supervised Learning better:
+
 ![SL](https://user-images.githubusercontent.com/55188228/229662125-3787a857-63ad-4d5a-8d14-204d18fcfc6d.png)
